@@ -23,3 +23,8 @@ IDE: IntelliJ IDEA / Eclipse / VS Code
 
 (Optional) File I/O for persistence
 
+Directory Structure:
+TaskMate/
+├── Task.java
+├── TaskManager.java
+└── Main.java
